@@ -10,7 +10,7 @@ export default function App() {
           Tooltip Gallery
         </h1>
         <p className="text-lg text-slate-600 max-w-2xl leading-relaxed">
-          A collection of versatile, animated tooltip layouts designed for clarity and elegance. 
+          A collection of versatile, animated tooltip layouts designed for clarity. 
           Built with React, Tailwind CSS, and Motion.
         </p>
       </header>
