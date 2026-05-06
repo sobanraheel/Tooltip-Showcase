@@ -41,7 +41,7 @@ export default function App() {
                   <HelpCircle className="w-6 h-6 text-slate-600" />
                 </button>
               </Tooltip>
-              <span className="text-xs font-medium text-slate-500">Bottom Tooltip</span>
+              <span className="text-xs font-medium text-slate-500">Bottom Text Tooltip</span>
             </div>
 
             <div className="flex flex-col items-center gap-4 p-8 bg-white rounded-2xl border border-slate-200 shadow-sm">
