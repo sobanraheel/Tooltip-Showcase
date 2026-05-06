@@ -59,7 +59,7 @@ export default function App() {
                   <User className="w-6 h-6 text-slate-600" />
                 </button>
               </Tooltip>
-              <span className="text-xs font-medium text-slate-500">Right Tooltip</span>
+              <span className="text-xs font-medium text-slate-500">Right Text Tooltip</span>
             </div>
           </div>
         </section>
